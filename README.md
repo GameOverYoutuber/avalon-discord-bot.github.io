@@ -1,2 +1,1 @@
-# avalon-discord-bot.github.io
- LOLLEL
+### LOL ###
